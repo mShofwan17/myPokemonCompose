@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_button">icon_button</string>
+    <string name="image_url">image_url</string>
+    <string name="catch_pokemon">Catch Pokemon</string>
+    <string name="half_elips">half_elips</string>
+    <string name="ic_back">ic_back</string>
+    <string name="gagal_menangkap_pokemon">Failed to Catch Pokemon ! Try Againnn !</string>
+    <string name="failed_release">Failed to Release Pokemon ! Try Againnn !</string>
+    <string name="success_release">Success to Release Pokemon !</string>
+    <string name="release_pokemon">Release Pokemon</string>
+    <string name="nickname">Nickname</string>
+    <string name="editname">EditName</string>
+    <string name="icon_info">icon_info</string>
+    <string name="pokemon_nickname">Pokemon Nickname</string>
+    <string name="confirm">Confirm</string>
+    <string name="ok">OK</string>
+    <string name="yeay_you_have_catch">Yeay! you have catch %1$s!</string>
+    <string name="refresh">Refresh</string>
+    <string name="change_nickname">Change Nickname</string>
+    <string name="cannot_be_empty">Cannot be Empty!</string>
+    <string name="cancel">Cancel</string>
+</resources>
